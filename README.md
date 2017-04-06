@@ -37,6 +37,10 @@ List of missed requests. Sometimes the requests have a strange formating or miss
 Thus, I decided to put all requests that we can not prosess using this program in the missed_requests.txt. 
 Now we can analyze them, too. 
 
+My programm pass all tests:
+
+![Mockup for feature A](https://github.com/Katy-katy/Pac-Man-as-an-AI-Agent-search-/blob/master/dfs.png)
+
 
 ***********************************************************************************
 ### Detailed Feature description form
