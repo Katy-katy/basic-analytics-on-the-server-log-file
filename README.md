@@ -39,7 +39,7 @@ Now we can analyze them, too.
 
 My programm pass all tests:
 
-![Mockup for feature A](https://github.com/Katy-katy/Pac-Man-as-an-AI-Agent-search-/blob/master/dfs.png)
+![Mockup for feature A](https://github.com/Katy-katy/basic-analytics-on-the-server-log-file/blob/master/images/tests2.png)
 
 
 ***********************************************************************************
