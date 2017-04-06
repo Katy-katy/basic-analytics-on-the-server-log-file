@@ -27,14 +27,20 @@ I used two queues. One of them to keep the failed requests for 20 seconds. The s
 
 ### Optional features
 ### Feature 5:
-List of the top 10 most dangerous hosts. The hosts that were blocked more often. 
+List of the top 10 most dangerous hosts. The hosts that were blocked more often are in the dangerous_hosts.txt
 
 As for feature 1 and 2 I used a dictionary and a priority queue. 
 
 ### Feature 6:
 
+List of missed requests. Sometimes the requests have a strange formating or missing parts. 
+Thus, I decided to put all requests that we can not prosess using this program in the missed_requests.txt. 
+Now we can analyze them, too. 
+
+
 ***********************************************************************************
-### Detailed Feature description form https://github.com/InsightDataScience/fansite-analytics-challenge/blob/master/README.md#challenge-summary
+### Detailed Feature description form
+https://github.com/InsightDataScience/fansite-analytics-challenge/blob/master/README.md#challenge-summary
 
 ### Feature 1 
 List in descending order the top 10 most active hosts/IP addresses that have accessed the site.
