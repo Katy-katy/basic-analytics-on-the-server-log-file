@@ -1,0 +1,53 @@
+nccse.gsfc.nasa.gov - - [01/Jul/1995:07:36:13 -0400] "GET /shuttle/missions/missions.html Shuttle Launches from Kennedy Space Center HTTP/1.0" 200 8677
+dawn14.cs.berkeley.edu - - [01/Jul/1995:14:39:38 -0400] "GET :/facilities/tour.html HTTP/1.0" 404 -
+dawn14.cs.berkeley.edu - - [02/Jul/1995:18:53:21 -0400] "GET :/facilities/tour.html HTTP/1.0" 404 -
+ad06-022.compuserve.com - - [04/Jul/1995:00:49:49 -0400] "GET /elv/uplink.htm>This Atlas/Centaur launch will be covered LIVE via satellite.<a/>" 404 -
+ad06-022.compuserve.com - - [04/Jul/1995:00:50:02 -0400] "GET /elv/uplink.htm>This Atlas/Centaur launch will be covered LIVE via satellite.<a/>" 404 -
+dd01-076.compuserve.com - - [05/Jul/1995:18:16:41 -0400] "GET /facilities/mila.html>Merritt Island Spaceflight Tracking and Data Network Station (MILA)</a>" 404 -
+dd01-076.compuserve.com - - [05/Jul/1995:18:17:59 -0400] "GET /facilities/mila.html>Merritt Island Spaceflight Tracking and Data Network Station (MILA)</a>" 404 -
+scotts-disk.nrl.navy.mil - - [06/Jul/1995:14:12:58 -0400] "GET /elv/uplink.htm>This Atlas/Centaur launch will be covered LIVE via satellite.</a>" 404 -
+dd14-008.compuserve.com - - [08/Jul/1995:05:36:51 -0400] "GET /shuttle/missions/sts-70/sts-70 press kit,txt HTTP/1.0" 404 -
+ix-sj19-25.ix.netcom.com - - [08/Jul/1995:23:46:35 -0400] "GET /HTTP/1.0 200 OKDate: Sunday, 09-Jul-95 03:42:07 GMTServer: NCSA/1.3MIME-version: 1.0Content-type: text/htmlMIME-Version: 1.0Server: NCSA-Lycos<html HTTP/1.0" 404 -
+ix-sj19-25.ix.netcom.com - - [08/Jul/1995:23:51:43 -0400] "GET /HTTP/1.0 200 OKDate: Sunday, 09-Jul-95 03:42:07 GMTServer: NCSA/1.3MIME-version: 1.0Content-type: text/htmlMIME-Version: 1.0Server: NCSA-Lycos<html HTTP/1.0" 404 -
+bos1d.delphi.com - - [09/Jul/1995:00:11:29 -0400] "GET /ksc.html   NASA/Kennedy Space Center Home Page HTTP/1.0" 200 7067
+bos1d.delphi.com - - [09/Jul/1995:00:20:03 -0400] "GET /shuttle/technology/sts-newsref/stsref-toc.html     Space Shuttle News Reference Manual HTTP/1.0" 200 84907
+klothos.crl.research.digital.com - - [10/Jul/1995:16:45:50 -0400] "" 400 -
+jumbo.jet.uk - - [11/Jul/1995:08:06:29 -0400] "GET  HTTP/1.0" 302 -
+128.158.26.178 - - [12/Jul/1995:13:50:39 -0400] "GET /history/apollo/apollo- 13/apollo -13-info.html HTTP/1.0" 404 -
+128.158.26.178 - - [12/Jul/1995:13:53:08 -0400] "GET /history/apollo/apollo- 13/apollo- 13-info.html HTTP/1.0" 404 -
+128.158.26.178 - - [12/Jul/1995:13:53:58 -0400] "GET /history/apollo/apollo- 13/apollo- 13info.html HTTP/1.0" 404 -
+128.158.26.178 - - [12/Jul/1995:13:54:23 -0400] "GET /history/apollo/apollo- 13/apollo- 13info.html HTTP/1.0" 404 -
+128.158.26.178 - - [12/Jul/1995:13:56:07 -0400] "GET /history/apollo/apollo- 13/apollo- 13-info.html HTTP/1.0" 404 -
+128.158.26.178 - - [12/Jul/1995:13:56:20 -0400] "GET /history/apollo/apollo- 13/apollo- 13-info.html HTTP/1.0" 404 -
+dialup96-077.swipnet.se - - [12/Jul/1995:14:20:53 -0400] "GET /htbin/wais.pl?Space Acceleration Measurement System HTTP/1.0" 200 317
+drjo002a087.embratel.net.br - - [12/Jul/1995:18:05:17 -0400] "GET http://www.ksc.nasa.gov:80/shuttle/countdown/ HTTP/1.0" 404 -
+arena.carleton.ca - - [12/Jul/1995:21:43:18 -0400] "GET /elv/uplink.htm>This Atlas/Centaur launch will be covered LIVE via satellite.</a>" 404 -
+ip12.san-diego.ca.interramp.com - - [13/Jul/1995:01:53:03 -0400] "GET www.ksc.nasa.gov HTTP/1.0" 404 -
+163.205.156.16 - - [13/Jul/1995:10:36:00 -0400] "HEAD /elv/uplink.htm>This Atlas/Centaur launch will be covered LIVE via satellite.</a><p>Next NASA Atlas launch will be an Atlas IIAS carrying the Solar and Heliospheric Observatory (SOHO).  Launch is scheduled for no earlier than October 31, 1995 and to date, the exact launch time has not been set.  <p></a><h2><b><a href= HTTP/1.0" 404 -
+163.205.156.16 - - [13/Jul/1995:10:50:59 -0400] "HEAD /elv/uplink.htm>This Atlas/Centaur launch will be covered LIVE via satellite.</a><p>Next NASA Atlas launch will be an Atlas IIAS carrying the Solar and Heliospheric Observatory (SOHO).  Launch is scheduled for no earlier than October 31, 1995 and to date, the exact launch time has not been set.  <p></a><h2><b><a href= HTTP/1.0" 404 -
+ai079.du.pipex.com - - [15/Jul/1995:15:53:07 -0400] "GET /htbin/wais.pl?Space Acceleration Measurement System HTTP/1.0" 200 317
+hosts-140.hiwaay.net - - [16/Jul/1995:21:05:41 -0400] "GET /htbin/wais.pl?Spaceborne Imaging Radar-C HTTP/1.0" 200 6666
+128.158.29.68 - - [17/Jul/1995:09:37:35 -0400] "GET /shuttle/countdown/>Shuttle Countdown</A> pages. " 404 -
+129.244.221.4 - - [17/Jul/1995:17:55:46 -0400] "GET /ksc.html Mon Oct 3 12:31:53 1994 HTTP/1.0" 200 7071
+titan02f - - [18/Jul/1995:16:13:14 -0400] "GET /htbin/wais.pl?Space Acceleration Measurement System HTTP/1.0" 200 317
+nbslip57.cac.psu.edu - - [18/Jul/1995:23:54:41 -0400] "GET /htbin/wais.pl?Millimeter Wave Atmospheric Sounder HTTP/1.0" 200 6730
+firewall.dfw.ibm.com - - [20/Jul/1995:07:34:34 -0400] "1/history/apollo/images/" 400 -
+firewall.dfw.ibm.com - - [20/Jul/1995:07:53:24 -0400] "1/history/apollo/images/" 400 -
+128.159.122.20 - - [20/Jul/1995:15:28:50 -0400] "kƒûtxƒûtGƒûtÍƒû" 400 -
+163.205.180.17 - - [21/Jul/1995:12:13:56 -0400] "GET /htbin/wais.pl?Space Acceleration Measurement System HTTP/1.0" 200 317
+knuth.mtsu.edu - - [22/Jul/1995:01:49:32 -0400] "GET /images/">index of /images HTTP/1.0" 404 -
+engr.engr.uark.edu - - [22/Jul/1995:18:38:04 -0400] "GET /elv/uplink2.htm>Uplink information</a> is already available for this Delta launch." 404 -
+engr.engr.uark.edu - - [22/Jul/1995:18:38:20 -0400] "GET /elv/uplink.htm>This Atlas/Centaur launch will be covered LIVE via satellite.</a>" 404 -
+engr.engr.uark.edu - - [22/Jul/1995:19:16:04 -0400] "GET /elv/uplink.htm>This Atlas/Centaur launch will be covered LIVE via satellite.</a>" 404 -
+engr.engr.uark.edu - - [22/Jul/1995:19:16:09 -0400] "GET /elv/uplink2.htm>Uplink information</a> is already available for this Delta launch." 404 -
+dd03-043.compuserve.com - - [22/Jul/1995:20:10:10 -0400] "GET /elv/uplink.htm>This Atlas/Centaur launch will be covered LIVE via satellite.</a>" 404 -
+dd03-043.compuserve.com - - [22/Jul/1995:20:10:14 -0400] "GET /elv/uplink2.htm>Uplink information</a> is already available for this Delta launch." 404 -
+engr.engr.uark.edu - - [22/Jul/1995:23:05:28 -0400] "GET /elv/uplink.htm>This Atlas/Centaur launch will be covered LIVE via satellite.</a>" 404 -
+engr.engr.uark.edu - - [22/Jul/1995:23:05:35 -0400] "GET /elv/uplink2.htm>Uplink information</a> is already available for this Delta launch." 404 -
+engr.engr.uark.edu - - [22/Jul/1995:23:13:15 -0400] "GET /elv/uplink.htm>This Atlas/Centaur launch will be covered LIVE via satellite.</a>" 404 -
+delta1.deltanet.com - - [23/Jul/1995:14:02:02 -0400] "GET /htbin/wais.pl?Spaceborne Imaging Radar-C HTTP/1.0" 200 6666
+clara.open.ac.uk - - [23/Jul/1995:18:24:54 -0400] "GET /htbin/wais.pl?Spaceborne Imaging Radar-C HTTP/1.0" 200 6666
+128.159.122.20 - - [24/Jul/1995:13:52:50 -0400] "kƒûtxƒûtGƒûtÍƒû" 400 -
+198.133.29.18 - - [24/Jul/1995:23:30:37 -0400] "GET /elv/uplink2.htm>Uplink information</a> is already available for this Delta launch." 404 -
+faure.borland.com - - [26/Jul/1995:14:10:40 -0400] "GET htbin/cdt_clock.pl" 404 -
+z109.euronet.nl - - [26/Jul/1995:20:34:30 -0400] "GET /htbin/wais.pl?Space Acceleration Measurement System HTTP/1.0" 200 317

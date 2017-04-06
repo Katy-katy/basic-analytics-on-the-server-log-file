@@ -1,0 +1,4 @@
+199.72.81.55 - - [01/Jul/1995:03:02:09 -0400]  401 1420
+199.72.81.55 - - - “POST /login HTTP/1.0” 1420
+burger.letters.com - - - "GET /shuttle/countdown/ HTTP/1.0" 200 3985
+
