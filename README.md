@@ -96,13 +96,6 @@ e.g., `blocked.txt`
     …
 
 
-### Additional Features
-
-### Feature 5
-
-
-### Feature 6
-
 ## Download Data
 You can download the data here: https://drive.google.com/file/d/0B7-XWjN4ezogbUh6bUl1cV82Tnc/view
 
@@ -135,7 +128,6 @@ In the above example, the 2nd line shows a failed login (HTTP reply code of 401)
 
 ## My repo directory structure
 
-The directory structure for your repo should look like this:
 
     ├── README.md 
     ├── run.sh
