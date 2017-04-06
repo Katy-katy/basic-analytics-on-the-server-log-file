@@ -1,6 +1,6 @@
 # Basic Analytics on The Server Log File
 
-I was very exited to work on this challenge and I hope, I did it well. My main idea was to read the log file line by line and update all my data structure as needed. I used dictionaries, queue, and priority queues. Since I wanted to keep as less data as possible, I checked the oldest items in the queues and pop them when they were too old. The size of my priority queues was restricted by 10 items. 
+I was very exited to work on this challenge and I hope, I did it well. My main idea was to read the log file line by line and update all my data structure as needed. I used dictionaries, queue, and priority queues. Since I wanted to keep as less data as possible, I checked the oldest items in the queues and pop them when they were too old. The size of my priority queues was restricted by 10 items. I used a large log.txt file (about 4 500 000 lines) to test my programm and it took about 5 min to run on my machine. 
  
 
 ### Feature 1: 
@@ -11,23 +11,30 @@ I used dictionary to keep the count of requests from each IP address. After read
 ### Feature 2: 
 Identify the 10 resources that consume the most bandwidth on the site
 
+As for the feature 1, I used a dictionary and a priority queue. Alsmost the same implementation as feature 1. 
+
 ### Feature 3:
 List the top 10 busiest (or most frequently visited) 60-minute periods 
+
+I used a queue to keep all requests for one hour. Then, when a request became too “old,” I used len() for queue to count how many requests we had for this hour. I popped the request time from one hour queue and pushed it in a priority queue using the number of request as its priority. The size of thus priority queue was also restricted by 10 items. I have found that len() of a queue takes O(1) time. Thus, this feature also take O(n) time.
+
 
 ### Feature 4: 
 Detect patterns of three failed login attempts from the same IP address over 20 seconds so that all further attempts to the site can be blocked for 5 minutes. Log those possible security breaches.
 
+I used two queues. One of them to keep the failed requests for 20 seconds. The second one to keep the IP that had three consecutive failed login attempts over 20 seconds. The IP from this queue must be blocked. Size of both queues were restricted by time - I removed old requests. This feature takes O(n * m * k ) where m is number of requests per 20 sec, and k is the number of IP that we are suppose to block.
 
-### Other considerations and optional features
-It's critical that these features don't take too long to run. For example, if it took too long to detect three failed login attempts, further traffic from the same IP address couldn’t be blocked immediately, and that would present a security breach.
-This dataset is inspired by real NASA web traffic, which is very similar to server logs from e-commerce and other sites. Monitoring web traffic and providing these analytics is a real business need, but it’s not the only thing you can do with the data. Feel free to implement additional features that you think might be useful.
 
-## Details of Implementation
-With this coding challenge, you should demonstrate a strong understanding of computer science fundamentals. We won't be wowed by your knowledge of various available software libraries, but will be impressed by your ability to pick and use the best data structures and algorithms for the job.
+### Optional features
+### Feature 5:
+List of the top 10 most dangerous hosts. The hosts that were blocked more often. 
 
-We're looking for clean, well-thought-out code that correctly implements the desired features in an optimized way and highlights your ability to write production-quality code.
+As for feature 1 and 2 I used a dictionary and a priority queue. 
 
-We also want to see how you use your programming skills to solve business problems. At a minimum, you should implement the four required features, but feel free to expand upon this challenge or add other features you think would prevent fraud and further business goals. Be sure to document these add-ons so we know to look for them.
+### Feature 6:
+
+***********************************************************************************
+### Detailed Feature description form https://github.com/InsightDataScience/fansite-analytics-challenge/blob/master/README.md#challenge-summary
 
 ### Feature 1 
 List in descending order the top 10 most active hosts/IP addresses that have accessed the site.
