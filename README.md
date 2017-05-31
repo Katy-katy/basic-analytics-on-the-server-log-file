@@ -1,6 +1,6 @@
 # Basic Analytics on The Server Log File
 
-I was very exited to work on this challenge and I hope, I did it well. My main idea was to read the log file line by line and update all my data structure as needed. I used dictionaries, queue, and priority queues. Since I wanted to keep as less data as possible, I checked the oldest items in the queues and pop them when they were too old. The size of my priority queues was restricted by 10 items. I used a large log.txt file (about 4 500 000 lines) to test my programm and it took about 5 min to run on my machine. 
+In this program I used dictionaries, queue, and priority queues. Since I wanted to keep as less data as possible, I checked the oldest items in the queues and pop them when they were too old. The size of my priority queues was restricted by 10 items. I used a large log.txt file (about 4 500 000 lines) to test my programm and it took about 5 min to run on my machine. 
  
 
 ### Feature 1: 
